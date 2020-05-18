@@ -118,6 +118,37 @@ h4 {
     font-family: 'Love Ya Like A Sister', cursive;
 }
 
+.order-overlay {
+    padding: 20px 20px 0px 20px;
+    border-radius: 20px;
+    background-image: linear-gradient(rgba(0, 0, 0, 0.596), rgba(0, 0, 0, 0.616)), url('https://bit.ly/2PQg72Z');
+}
+
+.checkout {
+    border-radius: 20px;
+    margin-top: 20px;
+}
+
+.menu img {
+    height: 300px;
+    width: 300px;
+    border-radius: 70%;
+    color: white;
+}
+
+ul>li {
+    list-style: none;
+}
+
+#sum-order {
+    /* margin-top: 20px; */
+}
+
+.footer {
+    background-color: gray;
+    font-family: 'Kalam', cursive;
+}
+
 
     
     
