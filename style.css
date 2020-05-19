@@ -1,16 +1,17 @@
-/* nav {
+nav {
     font-size: 15px;
     margin-top: 0px;
-} */
+} 
 
-/* nav ul {
+nav ul {
     text-align: right;
-} */
+} 
 
-/* nav ul li {
+ nav ul li {
     display: inline-block;
     list-style: none;
-} */
+    justify-content: space-around;
+} 
 
 nav {
     margin-top: -45px;
@@ -32,7 +33,7 @@ nav {
         list-style: none;
         color: red
         
-        font-family: 'Dancing Script', cursive 
+        /* font-family: 'Dancing Script', cursive  */
     }
 
     nav>ul>li>a:hover {
